@@ -12,8 +12,7 @@ namespace RolesNLogs.Admin
         public string username;
         public string password;
         private int id;
-        private string identifier;
-
+     
         public Administrator(string username, string password, int id)
         {
             this.username = username;
